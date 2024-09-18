@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **C# projects**
 
-- 🌱 I’m currently learning **studying System Analysis and Development in college + C# with .NET**
+- 🌱 I’m currently **studying System Analysis and Development in college + C# with .NET**
 
 - 📫 How to reach me **luancamilo313@gmail.com**
 
