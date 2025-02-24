@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luan Camilo Nogueira</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🔭 I’m currently working on **C# projects**
+- 🔭 I’m currently working on **Python Projects**
 
 - 🌱 I’m currently **studying System Analysis and Development in college + C# with .NET**
 
