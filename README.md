@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Python Projects**
 
-- 🌱 I’m currently **studying System Analysis and Development in college + C# with .NET**
+- 🌱 I’m currently **studying System Analysis and Development in college + Python**
 
 - 📫 How to reach me **luancamilo313@gmail.com**
 
