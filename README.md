@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luan Camilo Nogueira</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🔭 I’m currently working on **React projects in my company**
+- 🔭 I’m currently working on **Fintech project for studying**
 
 - 🌱 I’m currently **studying System Analysis and Development in college + React + Game dev**
 
